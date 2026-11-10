@@ -2,14 +2,15 @@
 
 # 📂 Portfolio — Pichai Jodpimai, Ph.D.
 
-### Digital & Business Transformation Strategy Specialist
+### Business & Digital Transformation
 
-**Enterprise Architecture · Data Governance · Applied AI & Machine Learning · Teaching**
+**Enterprise Architecture · Data Governance · Applied AI & ML · Software Engineering**
 
 [![Email](https://img.shields.io/badge/Email-pichaiku%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:pichaiku@gmail.com)
 ![Location](https://img.shields.io/badge/Based%20in-Bangkok%2C%20Thailand-0A66C2)
-![Research](https://img.shields.io/badge/Research-6%20publications-8A2BE2)
+![EA/DGF](https://img.shields.io/badge/EA/DGF-3-green)
 ![Projects](https://img.shields.io/badge/Projects-6-orange)
+![Research](https://img.shields.io/badge/publications-6-8A2BE2)
 ![Subjects](https://img.shields.io/badge/Subjects%20taught-7-success)
 
 </div>
