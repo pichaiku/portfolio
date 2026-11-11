@@ -9,7 +9,7 @@
 [![Email](https://img.shields.io/badge/Email-pichaiku%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:pichaiku@gmail.com)
 ![Location](https://img.shields.io/badge/Based%20in-Bangkok%2C%20Thailand-0A66C2)
 ![EA/DGF](https://img.shields.io/badge/EA/DGF-3-green)
-![Projects](https://img.shields.io/badge/Projects-6-orange)
+![Projects](https://img.shields.io/badge/Projects-7-orange)
 ![Research](https://img.shields.io/badge/publications-6-8A2BE2)
 ![Subjects](https://img.shields.io/badge/Subjects%20taught-7-success)
 
@@ -60,10 +60,11 @@ End-to-end software that takes AI and machine learning models from training to w
 | 🌟&nbsp;**[CelebMatch&nbsp;AI](https://github.com/pichaiku/celeb)** | Celebrity lookalike finder: scan live with the camera or upload a photo to see the closest celebrity match with a confidence breakdown. Photos never leave the device. | **Computer vision**<br/>CNN image classification with BlazeFace face detection, run on-device / in-browser | Mobile, Web | Flutter, TensorFlow Lite, ONNX Runtime Web, TensorFlow.js |
 | 🩻&nbsp;**[DeepXRay](https://github.com/pichaiku/deep_xray)** | Chest X-ray analysis: capture or select an X-ray image and get the three most likely findings with confidence scores and descriptions. | **Computer vision**<br/>Chest X-ray classification with PyTorch and TorchXRayVision | Mobile | Flutter, Flask, Docker Compose |
 | 🧑‍💼&nbsp;**[FaceEntryX](https://github.com/pichaiku/faceentry)** | Face recognition attendance system: one app registers employees, the other scans faces every 3 seconds, greets recognized employees by voice in Thai and logs attendance. | **Face recognition**<br/>128-dimension face encodings and matching with face_recognition (dlib) | Mobile | Flutter, Flask, MySQL |
+| 🫁&nbsp;**[LungEcho](https://github.com/pichaiku/lung_echo)** | Preliminary COPD risk screening from breath and cough sounds: record a short clip and get a risk level from COPD0 (low) to COPD4 (very severe) with per-level probabilities. Includes a PDPA/GDPR consent flow, and recordings are never stored. | **Audio classification**<br/>CNN on mel spectrograms (TensorFlow/Keras, librosa) | Mobile | Flutter, FastAPI, TensorFlow |
 | 🏠&nbsp;**[House&nbsp;Price&nbsp;Prediction](https://github.com/pichaiku/house_price)** | Estimates house prices (THB per sq. m.) from the property's age, distance to an MRT station and the number of nearby convenience stores, served through a validated REST API. | **Regression**<br/>Linear Regression model trained with scikit-learn | Mobile, Web | Flutter, Next.js, Flask, Pydantic |
 | 🛍️&nbsp;**[Shopdee](https://github.com/pichaiku/shopdee)** | Full-stack online clothing store with cart, credit-card (Omise) and bank-transfer payments, and an admin dashboard. Runs on Docker Compose behind nginx with Prometheus/Grafana monitoring, e-mail/LINE alerts and automated API, end-to-end, performance and usability tests. | **Recommendation system**<br/>KNN personal picks from purchase history (scikit-learn), topped up with best sellers | Mobile, Web | Next.js, Flutter, Express, Flask, MySQL, Docker, Grafana |
 
-Together, the projects cover  generative AI, computer vision, face recognition, regression, and recommendation systems.
+Together, the projects cover generative AI, computer vision, face recognition, audio classification, regression, and recommendation systems.
 
 ---
 
